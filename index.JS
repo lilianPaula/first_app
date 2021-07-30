@@ -1,1 +1,0 @@
-a dona aranha subiu pela parede
