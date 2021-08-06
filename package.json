@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/lilianPaula/first_app#readme",
   "dependencies": {
+    "ejs": "^3.1.6",
     "express": "^4.17.1"
   }
 }
