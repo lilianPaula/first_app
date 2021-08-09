@@ -1,6 +1,6 @@
 const express = require("express"); 
 const app = express(); 
-const routes= require("./route");
+const routes= require("./routes");
 const expressLayouts = require("express-ejs-layouts");
 
 //Ativando uso de EJS e Express-ejs-layouts
@@ -12,7 +12,7 @@ app.use(expressLayouts);
 
 app.use('/',routes);
 
-const port=3000;
+const port=3030;
 const address="localhost";
 
 //servidor para Node.js e Express
